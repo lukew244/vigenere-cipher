@@ -4,7 +4,7 @@ var modulo = 256;
 var frequentCharacter = 'e';
 var searchRangeforFrequentCharacter = 8;
 var digraph = 'th';
-var occurencesOfDigraphToFind = 6;
+var occurencesOfDigraphToFind = 5;
 
 var characters = cipher.split(' ');
 
